@@ -13,10 +13,11 @@
    </p>
 
  <p> tools: [<br>
-   'vscode',
+   'VSCODE',
+  ]
 </p>
-    <p> more: [
-    `I use daily: ".(t|j)s(x)", ".html" and ".(s)css"`,<br>
+    <p> more: [ <br>
+    `I use daily: ".JavaScript", ".html" and ".(s)css"`,<br>
     `I'm currently learning Node.js, React, TypeScript,`,<br>
     `Ask me about Games, Beer, jiu-jitsu, `,<br>
     `Things I deeply care about: Design and User Experience`,<br>
