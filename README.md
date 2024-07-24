@@ -1,6 +1,5 @@
 <h1> Hi there, I'm leonardo Soares 👋</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines='Front-end+Developer+ai+Brazil'" alt="Typing SVG" /></a>
- <p> const leleo-arch = { <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines='Front-end+Developer+in+Brazil'" alt="Typing SVG" /></a>
   'Front-end Developer and Open Source enthusiast based in Brazil',
   challenge: `I'm focused on React (Nextjs), React, TypeScript and Nodejs`, </p>
    <p><b> code :</b> [<br>
