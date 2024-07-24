@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-end+Developer+ain+Brazil;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
 <h1> Hi there, I'm leonardo Soares 👋</h1>
  <p> const leleo-arch = { <br>
   'Front-end Developer and Open Source enthusiast based in Brazil',
@@ -23,15 +24,7 @@
     `Things I deeply care about: Design and User Experience`,<br>
   ], </p> 
 };
-<picture>
-  <source
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
 
 <picture>
   <source
