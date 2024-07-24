@@ -20,20 +20,18 @@
 - `Ask me about:` `Games`, `Beer`, `Jiu-Jitsu`
 - `Things I deeply care about:` `Design and User Experience`
 
-## 📊 GitHub Stats:
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=leleo-arch&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=leleo-arch&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=leleo-arch&show_icons=true&theme=dracula" />
-</picture>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leleo-arch&show_icons=true&theme=dracula" alt="leleo-arch's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leleo-arch&theme=dracula" alt="leleo-arch's GitHub streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleo-arch&layout=compact&theme=dracula" alt="leleo-arch's most used languages" />
+</p>
 
-## 📫 Connect with Me:
-<a href="https://linkedin.com/in/leonardo-soares" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/leonardo-soares)
+- [Email](mailto:leo_devplay@outlook.com)
 
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=leleo-arch.visitor-badge" alt="visitor badge"/>
+</p>
 
