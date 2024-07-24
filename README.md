@@ -20,6 +20,7 @@
 - `Ask me about:` `Games`, `Beer`, `Jiu-Jitsu`
 - `Things I deeply care about:` `Design and User Experience`
 
+## 📊 GitHub Stats:
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=leonardo-soares&show_icons=true&theme=dracula"
@@ -31,4 +32,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=leonardo-soares&show_icons=true&theme=dracula" />
 </picture>
+
+## 📫 Connect with Me:
+<a href="https://linkedin.com/in/leonardo-soares" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href
 
