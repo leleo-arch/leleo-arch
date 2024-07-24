@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leleo-arch&show_icons=true&theme=dracula" alt="leleo-arch's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leleo-arch&theme=dracula" alt="leleo-arch's GitHub streaks" />
-  <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleo-arch&layout=compact&theme=dracula" alt="leleo-arch's most used languages" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleo-arch&layout=compact&theme=dracula"align="start" alt="leleo-arch's most used languages" />
 </p>
 
 ## 📫 Connect with Me
