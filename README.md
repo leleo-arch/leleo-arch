@@ -28,10 +28,10 @@
 </p>
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/leonardo-soares)
-- [Email](mailto:leo_devplay@outlook.com)
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=leleo-arch.visitor-badge" alt="visitor badge"/>
-</p>
+ <a href="https://linkedin.com/in/leonardo-soares" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:leonardo.soares@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 
