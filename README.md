@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Leonardo Soares 👋</h1>
 
 <a align="center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Front-end+Developer+in+Brazil" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Front-end+Developer+in+Brazil" alt="Typing SVG" />
 </a>
 
 ## 💻 Skills:
