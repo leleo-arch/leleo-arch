@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Leonardo Soares 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=000000&width=435&lines='Front-end+Developer+in+Brazil'" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=000000&width=435&lines='Front-end+Developer+in+Brazil'" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 💻 Skills:
 **Languages:**  
@@ -21,14 +25,15 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leleo-arch&show_icons=true&theme=dracula" alt="leleo-arch's GitHub stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleo-arch&layout=compact&theme=dracula"align="start" alt="leleo-arch's most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleo-arch&layout=compact&theme=dracula" alt="leleo-arch's most used languages" />
 </p>
 
 ## 📫 Connect with Me
- <a href="https://linkedin.com/in/leonardo-soares" target="_blank">
+<p align="center">
+  <a href="https://linkedin.com/in/leonardo-soares" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:leonardo.soares@example.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-
+</p>
