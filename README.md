@@ -31,7 +31,7 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dracula), (prefers-color-scheme: dracula)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
