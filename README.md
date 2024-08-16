@@ -17,8 +17,8 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## 🚀 More About Me:
-- `I use daily:` `.JavaScript`, `.html`, and `.(s)css`
-- `I'm currently learning:` `Node.js`, `React`, `TypeScript`
+- `I use daily:` `.JavaScript`, `.html`, and `.(s)css`,`.React`
+- `I'm currently learning:` `Node.js`, `Next.Js`, `TypeScript`
 - `Ask me about:` `Games`, `Beer`, `Jiu-Jitsu`
 - `Things I deeply care about:` `Design and User Experience`
 
